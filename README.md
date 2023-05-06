@@ -1,16 +1,13 @@
-# converty
+# Converty
 
 Convertion App.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<img src="./screenshots/main_screen.png" align="left" width="200" hspace="10">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="./screenshots/ascii_converter.png" align="center" width="200" hspace="10" >\\
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="./screenshots/number_system_converter_1.png" align="left" width="200" hspace="10" >
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="./screenshots/number_system_converter_2.png" align="center" width="200" hspace="10" >
